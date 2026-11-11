@@ -1,0 +1,11 @@
+PANEL 1
+GUARD (speech): Weapons on the compound!
+
+PANEL 2
+[No story text]
+
+PANEL 3
+GUARD (speech): Give him chase!
+
+PANEL 4
+TRUK (speech): Finish the job.

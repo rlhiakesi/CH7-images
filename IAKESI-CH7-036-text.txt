@@ -1,0 +1,11 @@
+PANEL 1
+TRUK (speech): What did you say?
+
+PANEL 2
+HARU (speech): Nothing, my lord.
+
+PANEL 3
+TRUK (speech): Too late.
+
+PANEL 4
+[No story text]
