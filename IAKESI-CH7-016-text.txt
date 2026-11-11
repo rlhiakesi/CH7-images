@@ -1,0 +1,14 @@
+PANEL 1
+[No story text]
+
+PANEL 2
+ELDER (speech): How much grain remains?
+
+PANEL 3
+VILLAGER (speech): Not enough for winter.
+
+PANEL 4
+ELDER (speech): And the seed grain?
+
+PANEL 5
+VILLAGER (speech): If we eat it, there is no spring planting.

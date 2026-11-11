@@ -1,0 +1,15 @@
+PANEL 1
+AIDE (speech): Some may not survive the winter.
+
+PANEL 2
+TRUK (speech): The Shogunate did not ask whether their harvest was good.
+
+PANEL 3
+TRUK (speech): Collect what is owed.
+
+PANEL 4
+AIDE (speech): And if they petition for relief?
+
+PANEL 5
+TRUK (speech): Let them petition.
+TRUK (speech): They will still pay.
